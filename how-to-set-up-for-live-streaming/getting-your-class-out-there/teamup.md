@@ -7,9 +7,9 @@ description: >-
 # 💫 Using TeamUp
 
 {% hint style="info" %}
-🖥 [**https://playwaze.com/**](https://playwaze.com/)
+🖥 [**https://goteamup.com/**](https://goteamup.com/)\*\*\*\*
 
-**📨  team@playwaze.com**
+**📨  team@goteamup.com**
 {% endhint %}
 
 ## Welcome to TeamUp
