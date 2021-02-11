@@ -19,12 +19,12 @@
 * [📣 Getting your live streamed classes out there](how-to-set-up-for-live-streaming/getting-your-class-out-there/README.md)
   * [👀 Increasing the visibility of your classes](how-to-set-up-for-live-streaming/getting-your-class-out-there/increasing-the-visibility-of-your-live-streamed-classes.md)
   * [⚙️ Using a system to manage your classes](how-to-set-up-for-live-streaming/getting-your-class-out-there/managing-your-classes.md)
-  * [💫 Using TeamUp](how-to-set-up-for-live-streaming/getting-your-class-out-there/teamup.md)
+  * [💫 Using TeamUp](how-to-set-up-for-live-streaming/getting-your-class-out-there/systems-on-offer/teamup.md)
 * [📝 Instructions to give to participants](how-to-set-up-for-live-streaming/instructions-to-give-to-participants.md)
 
 ## Before you start live streaming <a id="before-your-start-live-streaming"></a>
 
-* [👷‍♀️ Safety, safeguarding and insurance](before-your-start-live-streaming/safety-safeguarding-and-insurance.md)
+* [👷‍♀️ Qualifications, safety, safeguarding and insurance](before-your-start-live-streaming/safety-safeguarding-and-insurance.md)
 * [🎶 Music](before-your-start-live-streaming/music.md)
 * [✏️ Plan your workout](before-your-start-live-streaming/plan-your-workout.md)
 * [🤗 The big welcome](before-your-start-live-streaming/the-big-welcome.md)
